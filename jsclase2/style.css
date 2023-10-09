@@ -1,0 +1,20 @@
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+background-image: url(img/f.elconfidencial.com_original_c6a_544_4c3_c6a5444c33670a8cf3a01eb3a4786168.jpg);
+
+}
+#contador{
+    margin-top: 20px;
+padding: 20px;
+    font-size: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     color:white;
+}
+p{
+    margin-left: 500px;
+    margin-top: 400px;
+padding: 20px;
+    font-size: 120px;
+    color:white;
+}
